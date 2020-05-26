@@ -1,0 +1,2 @@
+#!/bin/sh
+lsw | dmenu -i $@ | awk '{print $1}' | xargs wmctrl -i -a

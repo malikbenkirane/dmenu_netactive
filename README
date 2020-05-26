@@ -1,0 +1,6 @@
+Requires wmctrl and lsw (https://git.suckless.org/lsw).
+
+For dwm-6.2 patch focusonnetactive-6.2:
+https://github.com/bakkeby/patches/blob/master/dwm/dwm-focusonnetactive-6.2.diff
+
+For config.h see dwm_config_patch.diff
